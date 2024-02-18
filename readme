@@ -1,0 +1,11 @@
+How long did you spend on this assignment?
+I spent almost 24 hours setting up and starting to code. I also have some hands-on practice with Git and coding.
+
+Based on your effort, what letter grade would you say you earned?
+Based on the effect, i would likely receive a grade around 'A' or 'A-'. It correctly solves the problem.
+
+Based on your solution, what letter grade would you say you earned?
+Based on the criteria of functionality, efficiency, code style, best practices, and scalability, i would likely receive a grade around 'A' or 'A-'. It correctly solves the problem.
+
+Provide a summary of what doesn't work in your solution, along with an explanation of how you attempted to solve the problem and where you feel you struggled.
+At first, the solution seemed daunting, especially with the complexity of constructing a tree. The assignment's reference to a priority queue was a clue, guiding the need to keep track of elements efficiently. Utilizing a map was key to maintaining these pairs. The crux of building the tree involved a sentinel value to signify unmodified nodes; reaching this value signifies completion, as all prior nodes have been accounted for and their codes printed. Following the assignment's structured steps simplified the process, although crafting the tree was a formidable task.
